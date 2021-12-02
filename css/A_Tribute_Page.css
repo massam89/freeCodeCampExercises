@@ -1,0 +1,37 @@
+body{
+  background-color:#ffe4b5;
+}
+#main{
+  padding: 15px 12px 10px 12px;
+  margin:15px 12px 20px 12px;
+  font-size:3vw;
+  text-align:center;
+  font-family: 'Pacifico', cursive;
+  background-color:#ffffe0;
+  box-shadow:1px 1px 5px 3px gray;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin-left:auto;
+	margin-right:auto;
+  border-radius:15%;
+  filter:sepia(50%);
+}
+#img-div{
+  text-align:center;
+}
+#tribute-info{
+  text-align:justify; 
+}
+#tribute-link{
+    font-size:2.5vw;
+}
+#tribute-link:link{
+  color:black;
+}
+#tribute-link:hover{
+  color:red;
+}
+
