@@ -1,0 +1,1 @@
+## some exercise from freecodecamp website  [show web](https://massam89.github.io/freeCodeCampExercises/)
